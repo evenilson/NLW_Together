@@ -21,4 +21,10 @@
 - Criamos o HTML e CSS da página da sala
 - Criamos o recurso de nova pergunta
 
+## Dia 04 - Aula 04 (Landing)
+- Criamos mais hooks
+- Criamos funcionalidades importantes, como a página de Administ
+- Fizemos a função de dar like, encerrar sala, remover pergunta
+
+
 
