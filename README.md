@@ -13,3 +13,12 @@
 - Aprendemos fazer autenticação com o firebase
 - Criamos um contexto de autenticação
 - Criamos um hook para a autenticação
+
+## Dia 03 - Aula 03 (In Orbit)
+- Aprendemos lidar com formulários em React
+- Trabalhamos com referencias no banco de dados do firebase
+- Definimos as regras dentro do Realtime Database
+- Criamos o HTML e CSS da página da sala
+- Criamos o recurso de nova pergunta
+
+
