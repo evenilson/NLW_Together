@@ -26,5 +26,7 @@
 - Criamos funcionalidades importantes, como a página de Administ
 - Fizemos a função de dar like, encerrar sala, remover pergunta
 
-
+## Dia 05 - Aula 05 (Surface Exploration)
+- Criamos as ultimas funcionalidades do sistema, como: a opçoes de dar destaque e pergunta e marcar como respondidas
+- Fizemos o deploy da aplicação
 
